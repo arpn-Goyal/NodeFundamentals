@@ -1,0 +1,25 @@
+{
+  "name": "nodefundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpn-Goyal/NodeFundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/arpn-Goyal/NodeFundamentals/issues"
+  },
+  "homepage": "https://github.com/arpn-Goyal/NodeFundamentals#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
