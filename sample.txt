@@ -1,0 +1,10 @@
+Line 1: Hello from the stream!
+Line 2: Streaming is memory efficient.
+Line 3: Node.js handles this well.
+Line 4: Each line is read one at a time.
+Line 5: Buffers work behind the scenes.
+Line 6: You can read gigabytes easily.
+Line 7: This is great for large files.
+Line 8: No need to load all in memory.
+Line 9: readline makes it even easier.
+Line 10: This is the last line.
